@@ -20,3 +20,14 @@ C:\Users\mcoll\source\repos\ScoreItApplication\src\obj\Debug\netcoreapp2.0\Angul
 C:\Users\mcoll\source\repos\ScoreItApplication\src\obj\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfo.cs
 C:\Users\mcoll\source\repos\ScoreItApplication\src\obj\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
 C:\Users\mcoll\source\repos\ScoreItApplication\src\obj\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+C:\Users\m.collins\Source\Repos\mcollins2618\ScoreItApplication\obj\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csprojAssemblyReference.cache
+C:\Users\m.collins\Source\Repos\mcollins2618\ScoreItApplication\obj\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+C:\Users\m.collins\Source\Repos\mcollins2618\ScoreItApplication\obj\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+C:\Users\m.collins\Source\Repos\mcollins2618\ScoreItApplication\bin\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.deps.json
+C:\Users\m.collins\Source\Repos\mcollins2618\ScoreItApplication\bin\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.json
+C:\Users\m.collins\Source\Repos\mcollins2618\ScoreItApplication\bin\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.dev.json
+C:\Users\m.collins\Source\Repos\mcollins2618\ScoreItApplication\bin\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+C:\Users\m.collins\Source\Repos\mcollins2618\ScoreItApplication\bin\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+C:\Users\m.collins\Source\Repos\mcollins2618\ScoreItApplication\obj\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csproj.CoreCompileInputs.cache
+C:\Users\m.collins\Source\Repos\mcollins2618\ScoreItApplication\obj\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfoInputs.cache
+C:\Users\m.collins\Source\Repos\mcollins2618\ScoreItApplication\obj\Debug\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfo.cs

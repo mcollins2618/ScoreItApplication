@@ -12792,23 +12792,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mcoll\\.nuget\\packages\\": {},
+    "C:\\Users\\m.collins\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mcoll\\source\\repos\\ScoreItApplication\\src\\AngularASPNETCore2WebApiAuth.csproj",
+      "projectUniqueName": "C:\\Users\\m.collins\\Source\\Repos\\mcollins2618\\ScoreItApplication\\AngularASPNETCore2WebApiAuth.csproj",
       "projectName": "AngularASPNETCore2WebApiAuth",
-      "projectPath": "C:\\Users\\mcoll\\source\\repos\\ScoreItApplication\\src\\AngularASPNETCore2WebApiAuth.csproj",
-      "packagesPath": "C:\\Users\\mcoll\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mcoll\\source\\repos\\ScoreItApplication\\src\\obj\\",
+      "projectPath": "C:\\Users\\m.collins\\Source\\Repos\\mcollins2618\\ScoreItApplication\\AngularASPNETCore2WebApiAuth.csproj",
+      "packagesPath": "C:\\Users\\m.collins\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\m.collins\\Source\\Repos\\mcollins2618\\ScoreItApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mcoll\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\m.collins\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
