@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('jwt-auth-demo App', () => {
+describe('score-it-app', () => {
   let page: AppPage;
 
   beforeEach(() => {
